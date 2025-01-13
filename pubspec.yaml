@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   shadcn_ui: ^0.17.6
   get: ^4.6.6
+  sqlite3: ^2.6.0
 
 dev_dependencies:
   flutter_test:
