@@ -101,7 +101,7 @@ It will also have an item that lets you manage the themes.
 
 
 ## Packages/Libraries that will be used: 
-shadcn_ui - For the UI, uniform design, and can set the theme. 
-getx - For flutter management. This takes care of the state, route, and dependency management. 
-dart:ffi (C interop) - For the scripting.
-sqlite3 - For the database, it uses ffi to provide dirrect access to SQLite. 
+- shadcn_ui => For the UI, uniform design, and can set the theme. 
+- getx => For flutter management. This takes care of the state, route, and dependency management. 
+- dart:ffi (C interop) => For the scripting.
+- sqlite3 => For the database, it uses ffi to provide dirrect access to SQLite. 
